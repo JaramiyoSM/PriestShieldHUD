@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: PriestShieldHUD
+## Notes: Animated absorb HUD for Turtle 1.12 (English client) with styles
+## Author: Jaramiiyo
+## Version: 1.0.0
+## SavedVariables: PriestShieldHUDDB
+
+config.lua
+core.lua
